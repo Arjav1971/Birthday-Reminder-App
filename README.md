@@ -23,5 +23,6 @@ View with Birthdays Added
 
 View with After adding clear all
 
-![2023-07-30 (1)](https://github.com/Arjav1971/Birthday-Reminder-App/assets/125732007/f5519efe-a4b6-4eec-8def-152ca6e91f3a)
+![Screenshot 2023-07-30 121524](https://github.com/Arjav1971/Birthday-Reminder-App/assets/125732007/4057cd86-3d5c-446e-81be-3131071b0892)
+
 
