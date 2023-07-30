@@ -26,3 +26,7 @@ View with After adding clear all
 ![Screenshot 2023-07-30 121524](https://github.com/Arjav1971/Birthday-Reminder-App/assets/125732007/4057cd86-3d5c-446e-81be-3131071b0892)
 
 
+## Languages
+
+The app is created using HTML,CSS,Javascript and React Js
+
