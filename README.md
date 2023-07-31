@@ -1,7 +1,7 @@
 
 # Birthday Reminder App
 
-A small project to keep track pf birthdays of your friends and family members.
+A small project to keep track of birthdays of your friends and family members.
 
 
 ## Run the App
